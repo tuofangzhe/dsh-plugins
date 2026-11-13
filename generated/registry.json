@@ -625,13 +625,13 @@
       "name": "DSH Her",
       "repository": {
         "url": "https://github.com/AIcivilization/dsh-her",
-        "commit": "3e3926ba4a0309ef014e7466df5cd2a58e3fa7a9"
+        "commit": "b518a3e3a0856b4ee65702217e8e1339abde6281"
       },
       "package": {
         "ecosystem": "npm",
         "name": "dsh-her",
-        "version": "0.8.1",
-        "install_spec": "dsh-her@0.8.1"
+        "version": "0.8.2",
+        "install_spec": "dsh-her@0.8.2"
       },
       "license": {
         "spdx": "MIT",
@@ -640,7 +640,7 @@
       "dsh": {
         "kind": "plugin",
         "compatibility_status": "declared",
-        "compatibility_notes": "声明 engines.dsh >=0.2.2-rc.2 <0.3.0-0（在 DSH 0.2.2-rc.2 上运行）；未在本站当前基线实测"
+        "compatibility_notes": "声明 engines.dsh >=0.2.0-0 <0.3.0-0（在 DSH 0.2.2-rc.1、0.2.2-rc.2 上安装过）；未在本站当前基线实测"
       },
       "category": "interface",
       "topics": [
