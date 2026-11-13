@@ -15,9 +15,9 @@ An open, machine-readable and evidence-graded community registry for DeepSeek Ha
 
 <!-- REGISTRY_STATS_START -->
 
-**287** 个稳定收录 · 源码审阅 **148** · 清单核验 **139** · 中文配置教程 **55** 篇 · 数据核验至 2026-08-29
+**288** 个稳定收录 · 源码审阅 **148** · 清单核验 **140** · 中文配置教程 **55** 篇 · 数据核验至 2026-11-12
 
-Stable records: **287** · source-reviewed: **148** · manifest-checked: **139** · Chinese install guides: **55** · data checked through 2026-08-29
+Stable records: **288** · source-reviewed: **148** · manifest-checked: **140** · Chinese install guides: **55** · data checked through 2026-11-12
 
 <!-- REGISTRY_STATS_END -->
 
@@ -74,7 +74,7 @@ Stable records: **287** · source-reviewed: **148** · manifest-checked: **139**
 | dsh-webui-market-plugin | 在 DSH Web 设置中浏览社区插件目录，并通过 DSH CLI 跨 Profile 安装、更新、卸载、停用或同步插件，提供临时试装、启动验证、快照和热挂载。 | `source_reviewed` | [功能、权限与配置](https://52dsh.com/plugins/sanqi-normal-dsh-webui-market-plugin/) |
 | zat-dsh-engine | 在 DSH Web 中实时搜索 GitHub dsh-plugin Topic，提供中文目录、AI 找插件、装前体检、安全扫描、安装、更新、卸载、启停、自更新和 Profile 恢复。 | `source_reviewed` | [功能、权限与配置](https://52dsh.com/plugins/mishibeikejie-zat-dsh-engine/) |
 
-### 界面交互 (84)
+### 界面交互 (85)
 
 | 插件 | 中文功能摘要 | 证据等级 | 中文详情 |
 |---|---|---|---|
@@ -84,6 +84,7 @@ Stable records: **287** · source-reviewed: **148** · manifest-checked: **139**
 | deepseek-harness-genui | 在 DSH 中生成面向具体任务的 React 应用，并把界面状态带入下一轮 Agent 对话。 | `manifest_checked` | [功能、权限与配置](https://52dsh.com/plugins/pengyue-polaron-deepseek-harness-genui/) |
 | deepseek-harness-zh_pro | 为 DSH 提供界面美化、布局调整和提示词注入等综合增强功能。 | `manifest_checked` | [功能、权限与配置](https://52dsh.com/plugins/magian1127-deepseek-harness-zh-pro/) |
 | deepseek-pet | 在 DeepSeek Harness 界面中加入一只可陪伴使用的大蓝鲸桌宠。 | `manifest_checked` | [功能、权限与配置](https://52dsh.com/plugins/keleus-deepseek-pet/) |
+| DSH Her | 桌面女友：住在桌面、壁纸或 dsh 网页里，语音聊天，会先开口，记得你；可以设好几个人物，形象和编排自己定。 | `manifest_checked` | [功能、权限与配置](https://52dsh.com/plugins/dsh-her/) |
 | DSH Spotlight | 为 DSH Web UI 增加键盘优先的命令面板，集中查找和触发界面操作。 | `manifest_checked` | [功能、权限与配置](https://52dsh.com/plugins/dsh-spotlight/) |
 | DSH Status Rotator | 把 DSH 默认运行状态改造成可轮换的打字机或渐变文案，支持模型、Provider、速度、工具数量等变量，并同步更新浏览器标题、状态胶囊和时间表。 | `source_reviewed` | [功能、权限与配置](https://52dsh.com/plugins/dsh-status-rotator/) |
 | dsh-ads | 给 DSH Web UI 增加仿 2005 年门户网站的戏仿广告、小游戏和弹窗效果。 | `manifest_checked` | [功能、权限与配置](https://52dsh.com/plugins/nagi-ovo-dsh-ads/) |
